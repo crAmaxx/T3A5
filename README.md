@@ -38,4 +38,7 @@ nombre del usuario pin (en este caso se va a insertar de 4 en 4 ) proceso entrad
  Gracias por su preferencia                                            
                                                
 
-## Etapa 3. Diagrama
+## Etapa 3. Diagrama de la clase
+![](https://github.com/xXkiritsuguXx/T3A5/blob/main/T3A5.png)
+## Etapa 4 Solucion de problema
+https://github.com/xXkiritsuguXx/T3A5/blob/main/T3A5.zip
