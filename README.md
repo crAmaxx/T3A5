@@ -14,9 +14,9 @@ El menú principal debe tener las siguientes opciones:
 
 4.Otras opciones
 
-1.Seguros
+ 1.Seguros
 
-2.Créditos
+ 2.Créditos
 
 5.Salir
 
@@ -29,10 +29,10 @@ nombre del usuario pin (en este caso se va a insertar de 4 en 4 ) proceso entrad
  1.Consultar saldo                                     
  2.Consultar estado de cuenta                           
  3.Retirar efectivo                                     
-  4.Otras opciones                                      
+ 4.Otras opciones                                      
  - .Seguros                                             
  - .Créditos                                            
- - 5.Salir                                              
+ 5.Salir                                              
                                                         
  En caso de elegir 5;                                   
  Gracias por su preferencia                                            
